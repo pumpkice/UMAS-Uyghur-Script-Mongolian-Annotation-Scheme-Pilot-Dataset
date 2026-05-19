@@ -1,4 +1,4 @@
-# UMAS-Pilot: Uyghur-Script Mongolian Annotation Scheme — Pilot Dataset
+<img width="2541" height="1503" alt="image" src="https://github.com/user-attachments/assets/7abcd10f-e9a5-4aac-89a2-fee4ce0f7b8a" /># UMAS-Pilot: Uyghur-Script Mongolian Annotation Scheme — Pilot Dataset
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -30,6 +30,6 @@ CC BY-SA 4.0 — Free to use with attribution.
 
 ## Contact
 Corresponding author: Bilige Batu  
-Email: jwilson4993@live.hccc.edu  
+Email: punpkin@emails.imau.edu.cn 
 Institution: College of Material Science and Art Design,  
 Inner Mongolia Agricultural University, Hohhot, China
